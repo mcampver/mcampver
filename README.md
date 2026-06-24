@@ -15,11 +15,15 @@
 ---
 
 ```python
-mauro = {
-    "universidad": "MATCOM · Universidad de La Habana 🇨🇺",
-    "areas":       ["Compiladores", "NLP / LLMs", "Fullstack", "Sistemas Operativos"],
-   
-}
+class Mauro:
+    universidad = "MATCOM · Universidad de La Habana 🇨🇺"
+    areas       = ["Compiladores", "NLP / LLMs", "Fullstack", "Sistemas Operativos"]
+    stack       = ["C/C++", "Python", "TypeScript", "Angular", "Node.js"]
+    actualmente = "Construyendo cosas que (a veces) funcionan a la primera 🚀"
+    fun_fact    = "Hice un compilador con Flex + Bison + LLVM IR desde cero 🔧"
+
+    def contacto(self):
+        return "maurocampver@gmail.com"
 ```
 
 ---
