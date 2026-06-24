@@ -18,7 +18,7 @@
 mauro = {
     "universidad": "MATCOM · Universidad de La Habana 🇨🇺",
     "areas":       ["Compiladores", "NLP / LLMs", "Fullstack", "Sistemas Operativos"],
-    "fun_fact":    "Construí un compilador con Flex + Bison + LLVM desde cero 🔧",
+   
 }
 ```
 
@@ -54,7 +54,6 @@ mauro = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mcampver&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
 
 <br/><br/>
 
